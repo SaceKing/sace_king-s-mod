@@ -321,19 +321,19 @@
   "workspaceSettings": {
     "modid": "sace_kings_mod",
     "modName": "sace_king\u0027s mod",
-    "version": "1.0.0",
-    "author": "Administrator, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "version": "1.0.4",
+    "author": "sace_king",
+    "websiteURL": "https://github.com/SaceKing/sace_king-s-mod",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
-    "mcreatorDependencies": [],
+    "Dependencies": [],
     "currentGenerator": "forge-1.16.5",
-    "modElementsPackage": "net.mcreator.sacekingsmod",
+    "modElementsPackage": "https://github.com/SaceKing/sace_king-s-mod",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100118117
+  "AuthorVersion": 1192349055@qq.com
 }
