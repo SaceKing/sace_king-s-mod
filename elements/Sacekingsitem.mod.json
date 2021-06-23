@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Sacekingsitem",
+    "icon": {
+      "value": "CUSTOM:Forgetmenot"
+    },
+    "showSearch": false
+  }
+}

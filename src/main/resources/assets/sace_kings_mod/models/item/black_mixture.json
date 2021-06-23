@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sace_kings_mod:items/blackmixture"
+  }
+}

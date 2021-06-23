@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross",
+  "textures": {
+    "cross": "sace_kings_mod:blocks/wu_wang_wo_",
+    "particle": "sace_kings_mod:blocks/wu_wang_wo_"
+  }
+}

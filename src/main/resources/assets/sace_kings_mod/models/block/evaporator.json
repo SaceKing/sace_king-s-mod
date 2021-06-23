@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sace_kings_mod:blocks/m3",
+    "up": "sace_kings_mod:blocks/b2",
+    "north": "sace_kings_mod:blocks/m1",
+    "east": "sace_kings_mod:blocks/m1",
+    "south": "sace_kings_mod:blocks/m1",
+    "west": "sace_kings_mod:blocks/m1",
+    "particle": "sace_kings_mod:blocks/m3"
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "RawIron",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_iron"
+    },
+    {
+      "name": "Sacekingsitem",
+      "type": "tab",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sacekingsitem"
+    },
+    {
+      "name": "BasePCB",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_pcb"
+    },
+    {
+      "name": "Glassmeltingmachine",
+      "type": "gui",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glassmeltingmachine"
+    },
+    {
+      "name": "PcbMixture",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pcb_mixture"
+    },
+    {
+      "name": "Makerawiron",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "makerawiron"
+    },
+    {
+      "name": "Evaporator",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evaporator"
+    },
+    {
+      "name": "CuSolenoid",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cu_solenoid"
+    },
+    {
+      "name": "AgSolenoid",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ag_solenoid"
+    },
+    {
+      "name": "ManasteelPlate",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manasteel_plate"
+    },
+    {
+      "name": "IndustrialSilicon",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "industrial_silicon"
+    },
+    {
+      "name": "SilicaPowder",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silica_powder"
+    },
+    {
+      "name": "UnicornHornsPower",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unicorn_horns_power"
+    },
+    {
+      "name": "BurnPCBMixture",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "burn_pcb_mixture"
+    },
+    {
+      "name": "ManaGear",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mana_gear"
+    },
+    {
+      "name": "AgSolenoidMake",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ag_solenoid_make"
+    },
+    {
+      "name": "IndustrialSiliconBall",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "industrial_silicon_ball"
+    },
+    {
+      "name": "CoolantFluid",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coolant_fluid"
+    },
+    {
+      "name": "CAP",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cap"
+    },
+    {
+      "name": "Forgetmenot",
+      "type": "plant",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "forgetmenot"
+    },
+    {
+      "name": "Motor",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "motor"
+    },
+    {
+      "name": "PNPorNPN",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pn_por_npn"
+    },
+    {
+      "name": "Hardsnakeskin",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardsnakeskin"
+    },
+    {
+      "name": "BlackMixture",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_mixture"
+    },
+    {
+      "name": "Ib555",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ib_555"
+    },
+    {
+      "name": "CPUsaceking",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cp_usaceking"
+    },
+    {
+      "name": "Crimsonsteelgear",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crimsonsteelgear"
+    },
+    {
+      "name": "CrimsonSteelPlates",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crimson_steel_plates"
+    },
+    {
+      "name": "SiliconeGrease",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silicone_grease"
+    },
+    {
+      "name": "ProudSoul",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "proud_soul"
+    },
+    {
+      "name": "OsgloglasIngot",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "osgloglas_ingot"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.sace_kings_mod.pcb_mixture": "Pcb Mixture",
+      "item.sace_kings_mod.raw_iron": "Raw Iron",
+      "block.sace_kings_mod.forgetmenot": "Forgetmenot",
+      "item.sace_kings_mod.industrial_silicon_ball": "Industrial Silicon Ball",
+      "item.sace_kings_mod.manasteel_plate": "Manasteel Plate",
+      "item.sace_kings_mod.cu_solenoid": "Cu Solenoid",
+      "item.sace_kings_mod.cap": "CAP",
+      "item.sace_kings_mod.base_pcb": "Base PCB",
+      "item.sace_kings_mod.cp_usaceking": "CPU",
+      "item.sace_kings_mod.hardsnakeskin": "Hardsnakeskin",
+      "item.sace_kings_mod.silica_powder": "Silica Powder",
+      "itemGroup.tabsacekingsitem": "Sacekingsitem",
+      "item.sace_kings_mod.mana_gear": "Manasteel Gear",
+      "item.sace_kings_mod.industrial_silicon": "Industrial Silicon",
+      "item.sace_kings_mod.coolant_fluid": "Coolant Fluid",
+      "item.sace_kings_mod.pn_por_npn": "PNP or  NPN",
+      "item.sace_kings_mod.motor": "Motor",
+      "item.sace_kings_mod.osgloglas_ingot": "Osgloglas Ingot",
+      "item.sace_kings_mod.black_mixture": "Black Mixture",
+      "item.sace_kings_mod.ib_555": "IB555",
+      "item.sace_kings_mod.ag_solenoid": "Ag Solenoid",
+      "item.sace_kings_mod.unicorn_horns_power": "Unicorn Horns Power",
+      "item.sace_kings_mod.proud_soul": "Proud Soul",
+      "item.sace_kings_mod.crimson_steel_plates": "Crimson Steel Gear",
+      "block.sace_kings_mod.evaporator": "Evaporator",
+      "item.sace_kings_mod.crimsonsteelgear": "Crimson Steel Gear",
+      "item.sace_kings_mod.silicone_grease": "Silicone Grease"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "sace_kings_mod",
+    "modName": "sace_king\u0027s mod",
+    "version": "1.0.0",
+    "author": "Administrator, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.sacekingsmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
